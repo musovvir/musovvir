@@ -26,9 +26,11 @@
 
 ### Примеры моих работ
 
-- Приложение контактов [код](https://github.com/musovvir/app-contacts) | [demo](https://morning-bastion-59815.herokuapp.com)
-- Лента на подобии ленты ВКонтакте [код](https://github.com/musovvir/team-app) | [demo]()
+- Приложение контактов [код](https://github.com/musovvir/app-contacts) | [demo]()
+- Лента на подобии ленты ВКонтакте [код](https://github.com/musovvir/team-app) | [demo](https://morning-bastion-59815.herokuapp.com)
 - Десктопный чат [код](https://github.com/musovvir/desktop-chat) | [demo]()
+
+*Demo-версии пока не добавил на Heroku
 
 ### Я в соц. сетях
 [![VK](https://img.shields.io/badge/VK-red?style=social&logo=vk)](https://vk.com/musovvir)
