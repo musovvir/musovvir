@@ -26,7 +26,7 @@
 
 ### Примеры моих работ
 
-Описания и скриншоты приложений прилагаются в README файлах
+Описания и скриншоты приложений прилагаются в их README файлах
 
 - Приложение контактов [код](https://github.com/musovvir/app-contacts) |
 - Лента на подобии ленты ВКонтакте [код](https://github.com/musovvir/team-app) | [demo](https://morning-bastion-59815.herokuapp.com)
