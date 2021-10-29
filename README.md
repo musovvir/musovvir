@@ -1,5 +1,5 @@
 ![Header](https://github.com/musovvir/musovvir/blob/main/assets/header.png)
-URL:https://www.codewars.com/users/musovvir/badges/large
+![CodeWars](https://www.codewars.com/users/musovvir/badges/large)
 
 ## Добро пожаловать на мой профиль!
 
