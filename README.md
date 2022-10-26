@@ -20,6 +20,7 @@
 ![React](https://img.shields.io/badge/-React-266132?style=for-the-badge&logo=React&logocolor=E9D54D)
 ![React-Native](https://img.shields.io/badge/React_Native-266132?style=for-the-badge&logo=React-Native)
 ![Redux](https://img.shields.io/badge/-Redux-266132?style=for-the-badge&logo=Redux&logocolor=E9D54D)
+![Redux-Toolkit](https://img.shields.io/badge/-Redux_Toolkit-266132?style=for-the-badge&logo=Redux-Toolkit&logocolor=E9D54D)
 ![React-Router](https://img.shields.io/badge/React_Router-266132?style=for-the-badge&logo=react-router)
 ![Redux-Thunk](https://img.shields.io/badge/Redux_Thunk-266132?style=for-the-badge&logo=redux-thunk)
 ![Angular](https://img.shields.io/badge/Angular-266132?style=for-the-badge&logo=angular)
