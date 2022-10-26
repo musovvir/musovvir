@@ -35,6 +35,8 @@
 ![CSS](https://img.shields.io/badge/CSS-266132?style=for-the-badge&logo=css3)
 ![Prettier](https://img.shields.io/badge/Prettier-266132?style=for-the-badge&logo=prettier)
 ![Storybook](https://img.shields.io/badge/Storybook-266132?style=for-the-badge&logo=storybook)
+![Flutter](https://img.shields.io/badge/Flutter-266132?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-266132?style=for-the-badge&logo=dart)
 
 ### Примеры моих лучших работ
 
