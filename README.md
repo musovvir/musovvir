@@ -16,9 +16,6 @@
 
 ### В свободное от основной работы время пишу 2 пэт-проекта: на Dart/Flutter и React/Redux-Toolkit. В которых применяются все навыки и технологии необходимые для уровня middle/middle+.
 
-### Данные готовые проекты скоро размещу в своем Гит Хабе.
-Рассматриваю преимущественно дистанционный формат работы.
-
 ### Мои навыки
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-266132?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
@@ -40,17 +37,14 @@
 ![CSS](https://img.shields.io/badge/CSS-266132?style=for-the-badge&logo=css3)
 ![Prettier](https://img.shields.io/badge/Prettier-266132?style=for-the-badge&logo=prettier)
 
-### Примеры моих работ
+### Примеры моих лучших работ
 
 Описания и скриншоты приложений прилагаются в их README файлах
 
-- Приложение контактов [код](https://github.com/musovvir/app-contacts) |
-- Лента на подобии ленты ВКонтакте [код](https://github.com/musovvir/team-app) | [demo](https://morning-bastion-59815.herokuapp.com)
-- Десктопный чат [код](https://github.com/musovvir/desktop-chat) |
-
-*Demo-версии пока не добавил на Heroku
+- Аналог Хабр [код](https://github.com/musovvir/production-project)
+- Мобильная версия на Flutter [код](https://github.com/musovvir/les-product)
 
 ### Я в соц. сетях
 [![VK](https://img.shields.io/badge/VK-red?style=social&logo=vk)](https://vk.com/musovvir)
-[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://teleg.run/mr_musovvir)
+[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://teleg.run/musovvir_v)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://instagram.com/musovvir?igshid=1jspxtrkzkf4y)
