@@ -40,7 +40,7 @@
 Описания и скриншоты приложений прилагаются в их README файлах
 
 - Аналог Хабр [код](https://github.com/musovvir/production-project)
-- Мобильная версия на Flutter [код](https://github.com/musovvir/les-product)
+- Мобильная версия на Flutter [код](https://github.com/musovvir/dart-flutter-habr)
 
 ### Я в соц. сетях
 [![VK](https://img.shields.io/badge/VK-red?style=social&logo=vk)](https://vk.com/musovvir)
