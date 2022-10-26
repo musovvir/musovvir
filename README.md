@@ -17,6 +17,7 @@
 ### Мои навыки
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-266132?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
+![TypeScript](https://img.shields.io/badge/-TypeScript-266132?style=for-the-badge&logo=TypeScript&logocolor=E9D54D)
 ![React](https://img.shields.io/badge/-React-266132?style=for-the-badge&logo=React&logocolor=E9D54D)
 ![React-Native](https://img.shields.io/badge/React_Native-266132?style=for-the-badge&logo=React-Native)
 ![Redux](https://img.shields.io/badge/-Redux-266132?style=for-the-badge&logo=Redux&logocolor=E9D54D)
