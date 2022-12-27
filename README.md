@@ -40,10 +40,9 @@
 
 ### Примеры моих лучших работ
 
-Описания и скриншоты приложений прилагаются в их README файлах
+Описания и скриншоты приложений прилагаются в их README файлах (пока в разработке)
 
 - Аналог Хабр [код](https://github.com/musovvir/react-habr)
-- Мобильная версия на Flutter [код](https://github.com/musovvir/dart-flutter-habr)
 
 ### Я в соц. сетях
 [![VK](https://img.shields.io/badge/VK-red?style=social&logo=vk)](https://vk.com/musovvir)
